@@ -14,6 +14,7 @@
   
 #### chart of outcomes vs launch date
 ![Outcomes vs Launch Dates](https://github.com/zhangkevq/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+[Outcomes vs Launch Dates](https://github.com/zhangkevq/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
   From the chart presented, here are two conclusions that can be reached: 
   1. there is peak success in theater projects that are started in May which drops off over the year
@@ -26,6 +27,7 @@ This data has large limitations, as can be seen in the failure/cancelation lines
   
 #### chart of outcomes vs goals
 ![Outcomes vs Goals](https://github.com/zhangkevq/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
+[Outcomes vs Goals](https://github.com/zhangkevq/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
   In this chart, there appears to be a downward trend for success. The higher the project's goal, the less likely it will be successful. This is also reflected in the upward trend for failure *and* cancelation.
   
