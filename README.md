@@ -15,7 +15,9 @@
 #### chart of outcomes vs launch date
 ![Outcomes vs Launch Dates](https://github.com/zhangkevq/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
-  From the chart presented, there is peak success in theater projects that are started in May and drops off over the year while failure/cancellation remain much more consistent throughout the year.
+  From the chart presented, here are two conclusions that can be reached: 
+  1 there is peak success in theater projects that are started in May which drops off over the year
+  2 failure/cancellation remain much more consistent throughout the year.
 
 ### outcomes vs goals
   Second deliverable: a chart based on outcomes of kickstarter projects vs. their donation goals (how much they wanted to raise). This deliverable seeks to find the correlation between success rate and how much money the kickstarter project wanted to earn to meet their goals. Link to excel sheet: [Kickstarter Data](https://github.com/zhangkevq/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx)
