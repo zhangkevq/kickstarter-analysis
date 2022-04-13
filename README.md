@@ -9,3 +9,4 @@ An analysis project of Kickstarter trends
   First deliverable: a chart based on Outcomes of Kickstarter projects (success, fail, cancelation) vs. their Launch dates. This deliverable seeks to find the correlation between success rate and start time for the Kickstarter project. Link to excel sheet: [Kickstarter Data](https://github.com/zhangkevq/kickstarter-analysis/blob/main/Resources.zip)
   
 #### chart of Outcomes vs Launch Date
+![Outcomes vs Launch Dates](https://github.com/zhangkevq/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
