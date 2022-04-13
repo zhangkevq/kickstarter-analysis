@@ -19,6 +19,8 @@
   1. there is peak success in theater projects that are started in May which drops off over the year
   2. failure/cancellation remain much more consistent throughout the year.
 
+This data has large limitations, as can be seen in the failure/cancelation lines. They do not clearly depict a trend. For the success, the chart shows a clearer trend with a peak, but "launch date" is too vague to use reliably as a metric for trends.
+
 ### outcomes vs goals
   Second deliverable: a chart based on outcomes of kickstarter projects vs. their donation goals (how much they wanted to raise). This deliverable seeks to find the correlation between success rate and how much money the kickstarter project wanted to earn to meet their goals. Link to excel sheet: [Kickstarter Data](https://github.com/zhangkevq/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx)
   
